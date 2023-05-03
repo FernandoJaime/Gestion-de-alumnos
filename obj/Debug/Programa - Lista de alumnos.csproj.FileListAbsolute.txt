@@ -1,0 +1,10 @@
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\bin\Debug\Programa - Lista de alumnos.exe.config
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\bin\Debug\Programa - Lista de alumnos.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\bin\Debug\Programa - Lista de alumnos.pdb
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa - Lista de alumnos.csproj.AssemblyReference.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa___Lista_de_alumnos.Form1.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa___Lista_de_alumnos.Properties.Resources.resources
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa - Lista de alumnos.csproj.GenerateResource.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa - Lista de alumnos.csproj.CoreCompileInputs.cache
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa - Lista de alumnos.exe
+C:\Archivos VS\1er-Cuatrimestre C# 2023\Trabajo practico integrador N° 1\Programa - Lista de alumnos\Programa - Lista de alumnos\obj\Debug\Programa - Lista de alumnos.pdb
